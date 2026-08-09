@@ -1,0 +1,14 @@
+[
+  {
+    "title": "Welcome to Hewett.cc",
+    "slug": "welcome-to-hewett-cc",
+    "date": "2024-08-09",
+    "excerpt": "This is the first post on my new personal site. Here I'll share projects, thoughts, and things I'm working on."
+  },
+  {
+    "title": "How I Built My First Web App",
+    "slug": "my-first-web-app",
+    "date": "2024-07-15",
+    "excerpt": "A walkthrough of building my first web application from scratch, including the technologies I chose and lessons learned."
+  }
+]
