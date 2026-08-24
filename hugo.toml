@@ -11,6 +11,9 @@ copyright = 'Hewett.cc'
 
 description = 'Personal website of Hewett'
 
+[params]
+    showTags = false  # hides the Tags nav link
+
 [menu]
     [[menu.main]]
         identifier = "about"
