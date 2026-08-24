@@ -39,8 +39,7 @@ jobs:
       - name: Build Hugo site
         run: |
           hugo \
-            --minify \
-            --baseURL "${{ steps.pages.outputs.base_url || 'https://hewett.cc/' }}"
+            --minify
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
