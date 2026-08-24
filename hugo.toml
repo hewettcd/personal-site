@@ -1,0 +1,24 @@
+baseURL = 'https://example.org/'
+locale = 'en-us'
+title = 'My New Hugo Project'
+theme = 'hugo-ficurinia'
+
+copyright = 'Me'
+
+[params.author]
+    name = 'Author Name'
+    email = 'email@example.com'
+
+description = 'A personal website/blog'
+
+[menu]
+    [[menu.main]]
+        identifier = "about"
+        name = "About"
+        url = "/about/"
+        weight = 10
+    [[menu.icons]]
+        identifier = "gitlab"
+        name = "GitLab"
+        url = "https://gitlab.com/gabmus"
+        weight = 10
