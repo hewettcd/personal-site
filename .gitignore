@@ -1,3 +1,11 @@
+# Hugo build output
+public/
+resources/
+tmp.*
+
+# Hugo build artifacts
+.hugo_build.lock
+
 # IDE
 .vscode/
 .idea/

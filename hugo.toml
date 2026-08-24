@@ -1,15 +1,15 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://hewett.cc/'
 locale = 'en-us'
-title = 'My New Hugo Project'
+title = 'Hewett.cc'
 theme = 'hugo-ficurinia'
 
-copyright = 'Me'
+copyright = 'Hewett.cc'
 
 [params.author]
-    name = 'Author Name'
-    email = 'email@example.com'
+    name = 'Hewett'
+    email = ''
 
-description = 'A personal website/blog'
+description = 'Personal website of Hewett'
 
 [menu]
     [[menu.main]]
