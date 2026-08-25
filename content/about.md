@@ -1,6 +1,6 @@
 ---
 title: "Callum Hewett"
-description: "Posted on August 24th, 2026"
+description: "2026-08-24"
 ---
 
 Hello Hello!
