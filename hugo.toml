@@ -13,6 +13,7 @@ description = 'Personal website of Hewett'
 
 [params]
     showTags = false  # hides the Tags nav link
+    showRss = false   # hide RSS icon
 
 [menu]
     [[menu.main]]
@@ -21,7 +22,12 @@ description = 'Personal website of Hewett'
         url = "/about/"
         weight = 10
     [[menu.icons]]
-        identifier = "gitlab"
-        name = "GitLab"
-        url = "https://gitlab.com/gabmus"
+        identifier = "github"
+        name = "GitHub"
+        url = "https://github.com/hewettcd"
         weight = 10
+    [[menu.icons]]
+        identifier = "linkedin"
+        name = "LinkedIn"
+        url = "https://www.linkedin.com/in/callum-hewett-1a9796201/"
+        weight = 20
