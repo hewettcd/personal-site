@@ -25,7 +25,7 @@ Food Critique
 3D Printing
 
 Niche media artifacts I recommend checking out:
-The Legend of Zelda: Phantom Hourglass (Nintendo DS)
+LibreOffice
 Shrek 2 on DVD
 ZooCode
 Globle
