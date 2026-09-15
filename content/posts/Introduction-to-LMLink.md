@@ -1,5 +1,5 @@
 ---
-title: "Democratizing-local-AI-with-LM Link"
+title: "Democratizing local AI with LM Link"
 date: 2026-09-14T20:39:00Z
 draft: false  
 tags: []      
